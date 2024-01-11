@@ -1,1 +1,1 @@
-# logica-programacion-2
+# Práctica de conversión de temperaturas
